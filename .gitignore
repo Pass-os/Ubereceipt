@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.nox/
+pytest_cache/
+
+# Environments variables / secrets
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# JetBrains (PyCharm, IntelliJ)
+.idea/
+*.iml
+out/
