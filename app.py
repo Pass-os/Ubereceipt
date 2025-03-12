@@ -449,4 +449,5 @@ lbl_trips.pack(anchor="w", pady=5)
 lbl_no_discounts = ttk.Label(right_frame, text="Gasto sem descontos: R$ 0.00", font=("Segoe UI", 10))
 lbl_no_discounts.pack(anchor="w", pady=5)
 
+
 root.mainloop()
